@@ -51,7 +51,7 @@ Model trained on the **Pima Indian Diabetes dataset** and tested using multiple 
 
 ---
 
-## 📊 Visualizations
+## 📊 Visualizations[Left being samples from affected patient and right being unaffected patient]
 
 ### 🔹 User vs Average Probability  
 **Compares user's probability of diabetes with dataset average**
