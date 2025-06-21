@@ -99,19 +99,28 @@ Model trained on the **Pima Indian Diabetes dataset** and tested using multiple 
 - install python in your system by downloading from
 - `https://www.python.org/downloads/`
 - Below are the required libraries to train and run the model, these can be directly installed by doing
-      `pip install requirements.txt`
+  ```bash
+      pip install requirements.txt
+  ```
 - Or by manually writing
-      `pip install library name(replace the name with actual library name)`
+ ```bash
+      pip install library name(replace the name with actual library name)
+```
 - `joblib`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
 - React-
 - For the frontend which is based on react node.js is must and should be installed in the system.
 - Download the required dependencies and libraries by running
-       `npm i`
+```bash
+        npm i
+```
 - `axios`, `react-dom`, `chart.js`, `formik`
 - And then to start the webapp run:
-       `npm start dev`
+```bash
+       npm start dev
+```
 - Or directly clone the repo by directly running the below in the terminal
 ```bash
 git clone https://github.com/your-username/diabetes-prediction
 cd diabetes-prediction
 pip install -r requirements.txt
+```
