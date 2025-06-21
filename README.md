@@ -78,6 +78,15 @@ Model trained on the **Pima Indian Diabetes dataset** and tested using multiple 
 ![Distribution]![image](https://github.com/user-attachments/assets/3b5618c5-b185-4d28-8b14-779b52f437da)
 
 ---
+### 🚀 Results  
+**The basic layout of the website containg basic info on what diabetes is and what are the common symptoms**
+![result]![image](https://github.com/user-attachments/assets/6b8d63d4-89fc-4c9d-983a-6fd6693a9cae)
+![image](https://github.com/user-attachments/assets/a55988ce-beeb-407a-abc3-80134d4d5e35)
+
+**Page for taking the inputs and performing the prediction**
+![result]![image](https://github.com/user-attachments/assets/a4e24b56-e216-4997-926e-66b1f4b7fa16)
+
+---
 
 ## 🚀 Getting Started
 
