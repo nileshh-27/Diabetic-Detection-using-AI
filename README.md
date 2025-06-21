@@ -1,4 +1,4 @@
-# Diabetic-Detection-using-AIAdd commentMore actions
+# Diabetic-Detection-using-ML & AI
 Diabetes Prediction System (ML + Visual Insights)
 # 🧠 Diabetes Prediction System (ML + Visual Insights)
 
@@ -53,7 +53,7 @@ Model trained on the **Pima Indian Diabetes dataset** and tested using multiple 
 
 ---
 
-## 📊 Visualizations[Left being samples from affected patient and right being unaffected patient]Add commentMore actions
+## 📊 Visualizations[Left being samples from affected patient and right being unaffected patient]
 
 ### 🔹 User vs Average Probability  
 **Compares user's probability of diabetes with dataset average**
@@ -90,8 +90,7 @@ Model trained on the **Pima Indian Diabetes dataset** and tested using multiple 
 
 ---
 
-## 🚀 Getting StartedAdd commentMore actions
-
+## 🚀 Getting Started
 - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ### 🔧 Requirements
 
