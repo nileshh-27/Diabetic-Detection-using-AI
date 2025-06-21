@@ -53,7 +53,7 @@ Model trained on the **Pima Indian Diabetes dataset** and tested using multiple 
 
 ---
 
-## 📊 Visualizations
+## 📊 Visualizations[Left being samples from affected patient and right being unaffected patient]Add commentMore actions
 
 ### 🔹 User vs Average Probability  
 **Compares user's probability of diabetes with dataset average**
@@ -80,16 +80,47 @@ Model trained on the **Pima Indian Diabetes dataset** and tested using multiple 
 ![Distribution]![image](https://github.com/user-attachments/assets/3b5618c5-b185-4d28-8b14-779b52f437da)
 
 ---
+### 🚀 Results  
+**The basic layout of the website containg basic info on what diabetes is and what are the common symptoms**
+![result]![image](https://github.com/user-attachments/assets/6b8d63d4-89fc-4c9d-983a-6fd6693a9cae)
+![image](https://github.com/user-attachments/assets/a55988ce-beeb-407a-abc3-80134d4d5e35)
 
-## 🚀 Getting Started
+**Page for taking the inputs and performing the prediction**
+![result]![image](https://github.com/user-attachments/assets/a4e24b56-e216-4997-926e-66b1f4b7fa16)
 
+---
+
+## 🚀 Getting StartedAdd commentMore actions
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ### 🔧 Requirements
 
 - Python 3.8+
+- Python 3.10+
+- React
+- 
+### 📦 Installation
+- Python 3.10+
+- install python in your system by downloading from
+- `https://www.python.org/downloads/`
+- Below are the required libraries to train and run the model, these can be directly installed by doing
+      `pip install requirements.txt`
+- Or by manually writing
+      `pip install library name(replace the name with actual library name)`
 - `joblib`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
 - React-
+- For the frontend which is based on react node.js is must and should be installed in the system.
+- Download the required dependencies and libraries by running
+       `npm i`
 - `axios`, `react-dom`, `chart.js`, `formik`
 ### 📦 Installation
+
+- And then to start the webapp run:
+       `npm start dev`
+- Or directly clone the repo by directly running the below in the terminal
+```bash
+git clone https://github.com/your-username/diabetes-prediction
+cd diabetes-prediction
 
 ```bash
 git clone https://github.com/your-username/diabetes-prediction
