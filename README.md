@@ -93,7 +93,7 @@ Model trained on the **Pima Indian Diabetes dataset** and tested using multiple 
 ### 🔧 Requirements
 - Python 3.10+
 - React
-- 
+
 ### 📦 Installation
 - Python 3.10+
 - install python in your system by downloading from
