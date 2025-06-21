@@ -1,5 +1,3 @@
-# Diabetic-Detection-using-ML & AI
-Diabetes Prediction System (ML + Visual Insights)
 # 🧠 Diabetes Prediction System (ML + Visual Insights)
 
 This project is a **Machine Learning-powered Diabetes Prediction System** that predicts whether a user is diabetic based on health metrics like glucose, insulin, BMI, and age. It uses a **Random Forest Classifier** along with custom **Feature Engineering** and **Weight of Evidence (WoE) Encoding** for enhanced accuracy and interpretability.
